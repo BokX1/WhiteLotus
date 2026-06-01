@@ -14,6 +14,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BokX1/WhiteLotus/refs
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BokX1/TheCompany/refs/heads/main/TheCompanyOBF.lua"))()
 ```
+| **[Demonology](https://scriptblox.com/script/Demonology-OPAUTOEVERYTHING-226241)** | ScriptBlox |
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BokX1/WhiteLotus/refs/heads/main/Demonology.lua"))()
+```
 | **[SmartInfiniteYield](https://github.com/BokX1/InfiniteYieldWithAI)** | GitHub |
 
 ```lua
